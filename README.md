@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i used to make youtube videos
--->
-[![Discord Presence](https://lanyard.cnrad.dev/api/366686299068956673)](https://discord.com/users/366686299068956673)
+
+- [![Discord Presence](https://lanyard.cnrad.dev/api/366686299068956673)](https://discord.com/users/366686299068956673)
+
