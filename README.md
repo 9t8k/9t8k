@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently doing **nothing**
 
-- 📝 I regularly write articles on [https://words.rae.lgbt](https://words.rae.lgbt)
-
-- ⚡ Fun fact *im a femboy :3~*
-
 - 💬 Ask me about **anything <3**
 
 - 📫 How to reach me **[raeven@rae.lgbt](mailto:raeven@rae.lgbt)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/9t8k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9t8k" height="30" width="40" /></a>
+<a href="https://instagram.com/raebeingweird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9t8k" height="30" width="40" /></a>
 </p>
