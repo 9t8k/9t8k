@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm raeven</h1>
+<h1 align="center">Hi 👋, I'm rae</h1>
 <h3 align="center">A passionate frontend developer from Cardiff, UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9t8k&label=Profile%20views&color=0e75b6&style=flat" alt="9t8k" /> </p>
