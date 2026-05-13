@@ -13,3 +13,21 @@
 <p align="left">
 <a href="https://instagram.com/raebeingweird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9t8k" height="30" width="40" /></a>
 </p>
+
+## 🛠️ Skills
+
+### Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![nodejs](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Front-End Development
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
